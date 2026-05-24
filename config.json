@@ -1,0 +1,7 @@
+{
+    "directories_to_watch": [
+        "./test_folder_1",
+        "./test_folder_2"
+    ],
+    "scan_interval_seconds": 10
+}
